@@ -1,0 +1,42 @@
+what is HTML & Why use it?
+Basic Tags
+HTML vs HTML5
+div vs section vs article
+div vs span
+inline vs block elements
+HTML Forms
+Input elements and attributes
+Form submit
+
+
+meta tag:-information about HTML documents
+Heading tag:-
+h1-h6
+paragraph tag:-
+
+break tag:-br,hr
+
+anchor tag;-to redirect the document
+  <a href="" blank=""></a>
+
+image tag;-it is used to add images
+<img src="" alt="">
+
+list types:
+1.ordered.
+<ol>
+ <li> </li>
+ <li> </li>
+
+<ol/>
+2.unordered.
+
+
+block vs inline
+
+block:div,paragraph
+
+inline:b,i,
+
+semantic elements:
+
